@@ -1,5 +1,7 @@
 # eslint-plugin-import-typescript-resolver
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/alexgorbatchev/eslint-plugin-import-typescript-resolver.svg)](https://greenkeeper.io/)
+
 This plugin allows you to use `eslint-plugin-import` with `.ts` and `.tsx` files.
 
 ![](screenshot.png)
